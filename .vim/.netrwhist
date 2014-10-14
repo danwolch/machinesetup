@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/dwolchonok/dev/ext_stats/gae'
+let g:netrw_dirhist_2='/Users/dwolchonok/go/src/github.com/danwolch'
+let g:netrw_dirhist_3='/Users/dwolchonok/dev/emailimages/companies/r.groupon.com'
+let g:netrw_dirhist_4='/Users/dwolchonok/dev/emailimages/companies/r.groupon.com/datadir'
